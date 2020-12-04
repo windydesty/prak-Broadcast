@@ -1,0 +1,10 @@
+<resources>
+    2. <style name="AppTheme"
+    parent="Theme.AppCompat.Light.DarkActionBar">
+    3. <item name="colorPrimary">@color/colorPrimary</item>
+    4. <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    5. <item name="colorAccent">@color/colorAccent</item>
+    6. </style>
+    7. <style name="SmsReceiverTheme"
+    parent="Theme.AppCompat.Light.Dialog"></style>
+    8. </resources>
